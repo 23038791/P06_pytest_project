@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\23038791\\OneDrive - Republic Polytechnic\\Downloads\\C206 L06 Student Resources\\C206 L06 Student Resources\\student\\L06a Unit Testing\\resources\\P06_pytest_project",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
